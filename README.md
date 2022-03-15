@@ -1,3 +1,5 @@
+Aplicación hecha con react-native con minijuegos.
+
 Hecho por: 
 Patricia Alonso del Real
 Javier García Céspedes
